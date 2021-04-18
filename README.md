@@ -7,7 +7,7 @@
 
 ## Results
 
-+ "January" 
++ 'January'
   - The beginning data starts with suburban and urban areas increasing at the beginning of January.
   - While suburban areas maintained about the same amount through January, the urban amount decreased a little mid January and then increased  and slightly decreased by the end of January. 
   + Unlike the other city types, rural areas decreased at the beginning of January. It increased and decreased throughout January but increased at the very end of the month.
@@ -28,7 +28,9 @@
 
 
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/79912179/115162395-ee4d0500-a068-11eb-885b-eb87f9997c3c.png)
+
 ![W_resampleDF](https://user-images.githubusercontent.com/79912179/115162397-eee59b80-a068-11eb-83ea-d3b379b595bc.png)
+
 
 ## Business Recommendations
 1. There should be more marketing tactics of the PyBer company to rural and suburban areas by looking at factors that play a role in accruing money for each specific city type. Target the groups of people that's more than likely to use the company and that would be the areas to use for marketing methods.

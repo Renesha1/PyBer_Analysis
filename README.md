@@ -20,8 +20,8 @@
   + At the beginning of March, suburban areas were pretty consistent until the middle of March which had an increase. 
   + By the end of March there was a slight decrease and remained consistent throughout the month of March. 
 + `April`
-  + Urban areas maintained the increase from march and was pretty steady throughthe month of April but declined slowly at the end of the month. 
-  + Suburban areas had a decreae in fare at the beginning of April but ultimatly had the greatest increase in the month of April out of all the city types.
+  + Urban areas maintained the increase from march and was pretty steady through the month of April but declined slowly at the end of the month. 
+  + Suburban areas had a decreae in fare at the beginning of April but ultimately had the greatest increase in the month of April out of all the city types.
   + In April, rural areas declined from the increase at the end of March. 
   + By the middle of April the decreasing fares stopped and remained stagnant at about the same amount for the remainder of April.
 + Overall, urban city fares were the highest throughout January - April.
